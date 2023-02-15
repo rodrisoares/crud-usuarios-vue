@@ -1,6 +1,6 @@
 ## 💻 Projeto CRUD de usuários
 
-Esse projeto é um crud de usuários, onde é possivel criar um novo usuário, editar um usuário existente e apagar um usuário.
+Esse projeto é um crud de usuários, onde é possivel criar um novo usuário, editar um usuário existente e apagar um usuário. Os usuários serão salvos em um banco de dados do firebase
 
 ## 🚀 Tecnologias utilizadas:
 - Vue.js para construção da aplicação
